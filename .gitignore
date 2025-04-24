@@ -1,1 +1,43 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build*/
+build/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+
+# Исполняемые файлы
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.bin
+*.dll
+
+# Логи
+*.log
+
+# Конфигурации IDE
 .idea/
+.vscode/
+
+# Тестовые артефакты
+test_output/
+Testing/
+
+# GTest build artifacts
+gtest_build/
+
+# Файлы, создаваемые пользователем
+*.user
+*.swp
+
+# Папка для бинарников, если используешь отдельную
+/bin/

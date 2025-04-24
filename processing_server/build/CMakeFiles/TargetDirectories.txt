@@ -1,3 +1,0 @@
-/home/artemborisov/CLionProjects/untitled/processing_server/build/CMakeFiles/processing_server.dir
-/home/artemborisov/CLionProjects/untitled/processing_server/build/CMakeFiles/edit_cache.dir
-/home/artemborisov/CLionProjects/untitled/processing_server/build/CMakeFiles/rebuild_cache.dir

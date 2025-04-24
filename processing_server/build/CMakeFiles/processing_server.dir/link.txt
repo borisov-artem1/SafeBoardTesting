@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/processing_server.dir/ProcessingServer.o CMakeFiles/processing_server.dir/StartProcessingServer.o CMakeFiles/processing_server.dir/home/artemborisov/CLionProjects/untitled/socket/Socket.o -o processing_server 
