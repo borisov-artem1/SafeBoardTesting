@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/display_server.dir/DisplayServer.o CMakeFiles/display_server.dir/StartDisplayServer.o CMakeFiles/display_server.dir/home/artemborisov/CLionProjects/untitled/socket/Socket.o CMakeFiles/display_server.dir/home/artemborisov/CLionProjects/untitled/processing_server/ProcessingServer.o -o display_server 
